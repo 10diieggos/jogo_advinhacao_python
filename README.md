@@ -21,7 +21,7 @@ Este é um jogo de adivinhação de números em que o jogador precisa adivinhar 
 
 - Fácil: 15 tentativas e 150 pontos para começar.
 - Médio: 10 tentativas e 70 pontos para começar.
-- Difícil: 5 tentativas e 20 pontos para começar.
+- Difícil: 5 tentativas e 50 pontos para começar.
 
 ## Como Jogar
 
