@@ -19,7 +19,7 @@ def jogar():
     converter_nivel_em_saldo_de_pontos = {
         '1' : 150,
         '2' : 70,
-        '3' : 20
+        '3' : 50
     }
 
     tentativas = converter_nivel_em_nume_de_tentativas[nivel]
